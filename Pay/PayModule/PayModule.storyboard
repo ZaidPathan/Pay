@@ -10,7 +10,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Pay View Controller-->
+        <!--Pay-->
         <scene sceneID="c1o-s6-PbK">
             <objects>
                 <viewController storyboardIdentifier="PayViewController" id="dSn-uH-SLB" customClass="PayViewController" customModule="PayModule" customModuleProvider="target" sceneMemberID="viewController">
@@ -32,6 +32,8 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="8eS-p7-qHC"/>
                     </view>
+                    <tabBarItem key="tabBarItem" title="Pay" id="3gp-La-Nv3"/>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2Ig-a3-yXt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
