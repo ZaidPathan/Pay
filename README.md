@@ -1,2 +1,2 @@
 # Pay
-A pay module of PayZaid main app.
+A Pay module of [TheAwesomeApp](https://link.medium.com/edjqlnY5oV).
